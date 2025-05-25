@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f052mWkN16c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\C#_PetShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferid\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ferid\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ferid\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ferid\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

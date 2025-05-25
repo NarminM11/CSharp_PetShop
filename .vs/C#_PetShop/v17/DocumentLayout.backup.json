@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\c#_petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\c#_petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "C#_PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Program.cs*",
+              "RelativeToolTip": "C#_PetShop\\Program.cs*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:23:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#_PetShop.csproj",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\C#_PetShop.csproj",
+              "RelativeDocumentMoniker": "C#_PetShop\\C#_PetShop.csproj",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\C#_PetShop.csproj",
+              "RelativeToolTip": "C#_PetShop\\C#_PetShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T09:20:03.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
