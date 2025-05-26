@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\models\\petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\models\\petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|c:\\users\\ferid\\desktop\\c#\\c#_petshop\\c#_petshop\\c#_petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{406A64FC-8F8B-4FDB-AF04-D37C23B4D144}|C#_PetShop\\C#_PetShop.csproj|solutionrelative:c#_petshop\\c#_petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "C#_PetShop\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Dog.cs",
+              "RelativeToolTip": "C#_PetShop\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:52:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "C#_PetShop\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Cat.cs",
+              "RelativeToolTip": "C#_PetShop\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:52:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "C#_PetShop\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\Pet.cs",
+              "RelativeToolTip": "C#_PetShop\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:52:25.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetShop.cs",
+              "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\PetShop.cs",
+              "RelativeDocumentMoniker": "C#_PetShop\\Models\\PetShop.cs",
+              "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Models\\PetShop.cs",
+              "RelativeToolTip": "C#_PetShop\\Models\\PetShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:52:20.365Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +96,14 @@
               "RelativeDocumentMoniker": "C#_PetShop\\Program.cs",
               "ToolTip": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\Program.cs",
               "RelativeToolTip": "C#_PetShop\\Program.cs",
-              "ViewState": "AgIAADkCAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T09:23:09.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "C#_PetShop.csproj",
               "DocumentMoniker": "C:\\Users\\Ferid\\Desktop\\C#\\C#_PetShop\\C#_PetShop\\C#_PetShop.csproj",
               "RelativeDocumentMoniker": "C#_PetShop\\C#_PetShop.csproj",
